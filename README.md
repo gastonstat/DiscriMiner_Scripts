@@ -17,11 +17,13 @@ Case Studies
 Links
 -----
 [www.gastonsanchez.com/discriminer](http://www.gastonsanchez.com/discriminer/iris)
+
 [www.gastonsanchez.com/discriminer](http://www.gastonsanchez.com/discriminer/bordeaux)
+
 [www.gastonsanchez.com/discriminer](http://www.gastonsanchez.com/discriminer/infarctus)
+
 [www.gastonsanchez.com/discriminer](http://www.gastonsanchez.com/discriminer/insurance) 
 
 [DiscriMiner github](https://github.com/gastonstat/DiscriMiner)
 
-[The R Project](http://www.r-project.org/)
 

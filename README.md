@@ -16,13 +16,13 @@ Case Studies
 
 Links
 -----
-[www.gastonsanchez.com/discriminer](http://www.gastonsanchez.com/discriminer/iris)
+[iris slides](http://www.gastonsanchez.com/discriminer/iris)
 
-[www.gastonsanchez.com/discriminer](http://www.gastonsanchez.com/discriminer/bordeaux)
+[bordeaux slides](http://www.gastonsanchez.com/discriminer/bordeaux)
 
-[www.gastonsanchez.com/discriminer](http://www.gastonsanchez.com/discriminer/infarctus)
+[infarctus slides](http://www.gastonsanchez.com/discriminer/infarctus)
 
-[www.gastonsanchez.com/discriminer](http://www.gastonsanchez.com/discriminer/insurance) 
+[insurance slides](http://www.gastonsanchez.com/discriminer/insurance) 
 
 [DiscriMiner github](https://github.com/gastonstat/DiscriMiner)
 
